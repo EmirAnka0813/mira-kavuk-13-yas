@@ -1,0 +1,7 @@
+_release/
+.netlify/
+site/
+_shots/
+_t/
+*.py
+*.mp4.tmp
